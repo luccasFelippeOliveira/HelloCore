@@ -1,0 +1,15 @@
+/home/luccas/RiderProjects/HelloCore/HelloCore/bin/Debug/netcoreapp2.2/HelloCore.dll.config
+/home/luccas/RiderProjects/HelloCore/HelloCore/bin/Debug/netcoreapp2.2/HelloCore.deps.json
+/home/luccas/RiderProjects/HelloCore/HelloCore/bin/Debug/netcoreapp2.2/HelloCore.runtimeconfig.json
+/home/luccas/RiderProjects/HelloCore/HelloCore/bin/Debug/netcoreapp2.2/HelloCore.runtimeconfig.dev.json
+/home/luccas/RiderProjects/HelloCore/HelloCore/bin/Debug/netcoreapp2.2/HelloCore.dll
+/home/luccas/RiderProjects/HelloCore/HelloCore/bin/Debug/netcoreapp2.2/HelloCore.pdb
+/home/luccas/RiderProjects/HelloCore/HelloCore/obj/Debug/netcoreapp2.2/HelloCore.csprojAssemblyReference.cache
+/home/luccas/RiderProjects/HelloCore/HelloCore/obj/Debug/netcoreapp2.2/HelloCore.csproj.CoreCompileInputs.cache
+/home/luccas/RiderProjects/HelloCore/HelloCore/obj/Debug/netcoreapp2.2/HelloCore.RazorAssemblyInfo.cache
+/home/luccas/RiderProjects/HelloCore/HelloCore/obj/Debug/netcoreapp2.2/HelloCore.RazorAssemblyInfo.cs
+/home/luccas/RiderProjects/HelloCore/HelloCore/obj/Debug/netcoreapp2.2/HelloCore.AssemblyInfoInputs.cache
+/home/luccas/RiderProjects/HelloCore/HelloCore/obj/Debug/netcoreapp2.2/HelloCore.AssemblyInfo.cs
+/home/luccas/RiderProjects/HelloCore/HelloCore/obj/Debug/netcoreapp2.2/HelloCore.RazorTargetAssemblyInfo.cache
+/home/luccas/RiderProjects/HelloCore/HelloCore/obj/Debug/netcoreapp2.2/HelloCore.dll
+/home/luccas/RiderProjects/HelloCore/HelloCore/obj/Debug/netcoreapp2.2/HelloCore.pdb
